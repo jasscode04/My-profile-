@@ -4,11 +4,35 @@
 
 
 # 💫 About Me:
- 🔭 I’m currently working on : <br>- Building AI-powered automation workflows using n8n  <br>- Developing Python scripts for data analytics and process automation  <br>- Creating Excel-based dashboards for business intelligence  <br><br>
- 👯 I’m looking to collaborate on : <br>- Open-source automation projects  <br>- Data analysis/visualization initiatives  <br>- AI integration projects (especially with n8n/Python)  <br><br>
- 🤝 I’m looking for help with :<br>- Advanced machine learning implementations  <br>- AWS cloud architecture best practices  <br>- Optimizing large-scale automation workflows  <br><br>
- 🌱 I’m currently learning  : <br>- Machine Learning (TensorFlow/PyTorch)  <br>- Deep Learning architectures  <br>- AWS cloud services  <br>- Advanced data engineering concepts  <br>
-                                                                                                                                                                                                                                                                                                                             
+ ### 🔭 I’m currently working on  
+- Building AI-powered automation workflows using n8n  
+- Developing Python scripts for data analytics and process automation  
+- Creating Excel-based dashboards for business intelligence  
+
+### 👯 I’m looking to collaborate on  
+- Open-source automation projects  
+- Data analysis/visualization initiatives  
+- AI integration projects (especially with n8n/Python)  
+
+### 🤝 I’m looking for help with  
+- Advanced machine learning implementations  
+- AWS cloud architecture best practices  
+- Optimizing large-scale automation workflows  
+
+### 🌱 I’m currently learning  
+- Machine Learning (TensorFlow/PyTorch)  
+- Deep Learning architectures  
+- AWS cloud services  
+- Advanced data engineering concepts  
+
+### 💬 Ask me about  
+- Data analytics tricks in Python/Excel  
+- Building no-code automations with n8n  
+- Transitioning from scripting to ML/AI  
+- Career growth in tech automation  
+
+### ⚡ Fun fact  
+I can analyze a dataset AND automate its processing pipeline simultaneously - double productivity! 🚀                                                                                                                                                                                                                                                                                       
 
 
 ## 🌐 Socials:
